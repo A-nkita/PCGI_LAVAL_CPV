@@ -1,0 +1,51 @@
+PF84DV_WORLD =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL= TCP)(Host=pf84dvda)(Port=20150))
+    (CONNECT_DATA = (SID = PF84DV))
+  )
+
+PF84QA_WORLD =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL= TCP)(Host=pf84qada)(Port=21250))
+   (CONNECT_DATA = (SID = PF84QA))
+  )
+
+PF84PD_WORLD =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host = pf84pdda)(Port = 10650))
+    (CONNECT_DATA = (SID = PF84PD))
+  )
+
+
+PE88DV =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host=161.242.117.167)(Port = 24950))
+    (CONNECT_DATA = (SID = PE88DV))
+  )
+
+PE88QA =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host=161.242.117.170)(Port = 25150))
+    (CONNECT_DATA = (SID = PE88QA))
+  )
+
+
+PE88PD =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(Host=161.242.117.169)(Port = 24150))
+    (CONNECT_DATA = (SID = PE88PD))
+  )
+FLEX3TS_DB =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL=TCP)(HOST=flex3ts-vip.bauschhealth.com)(PORT=1531))
+    (CONNECT_DATA=(SID=flex3ts)))
+
+LAVAL_CPV =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL=TCP)(HOST=lavsaixp01.pharma.aventis.com)(PORT=1521))
+    (CONNECT_DATA=(SID=mrsxpp)))
+
+LAVAL_CPV =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL=TCP)(HOST=glims2dv-vip.bhc.bauschhealth.com)(PORT=1539))
+    (CONNECT_DATA=(SID=glims2dv)))
