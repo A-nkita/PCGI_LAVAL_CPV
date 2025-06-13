@@ -1,0 +1,61 @@
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560001, 560001, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_CO_SAMPLE_TEST_LG', 1, NULL, NULL, NULL, 560011, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560002, 560001, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_CO_SAMPLE_TEST_LG', 2, NULL, NULL, NULL, 560012, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560003, 560002, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 1, NULL, NULL, NULL, 560013, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560004, 560002, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 2, NULL, NULL, NULL, 560014, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560005, 560003, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_PM_BATCH_ST', 1, NULL, NULL, NULL, 560015, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560006, 560003, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_PM_BATCH_ST', 2, NULL, NULL, NULL, 560016, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560007, 560004, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_ACTIONS', 1, NULL, NULL, NULL, 560017, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560008, 560004, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_ACTIONS', 2, NULL, NULL, NULL, 560018, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560009, 560005, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 1, NULL, NULL, NULL, 560019, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560010, 560005, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 2, NULL, NULL, NULL, 560020, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560011, 560006, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_VALEURS', 1, NULL, NULL, NULL, 560021, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560012, 560006, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_VALEURS', 2, NULL, NULL, NULL, 560022, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560013, 560007, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATA', 1, NULL, NULL, NULL, 560023, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560014, 560007, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATA', 2, NULL, NULL, NULL, 560024, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560015, 560008, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATAITEM', 1, NULL, NULL, NULL, 560025, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560016, 560008, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATAITEM', 2, NULL, NULL, NULL, 560026, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560017, 560009, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_BATCH', 1, NULL, NULL, NULL, 560027, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560018, 560009, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_BATCH', 2, NULL, NULL, NULL, 560028, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560019, 560010, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_SAMPLE', 1, NULL, NULL, NULL, 560029, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_parm
+(rule_parm_id, rule_num, rule_nm, seq, parm_nm, parm_val, pre_chk_qry_id, qry_id, on_failr_chk_qry_id, job_list, actv_flg, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560020, 560010, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_SAMPLE', 2, NULL, NULL, NULL, 560030, NULL, NULL, 1, 'etluser', NULL, 'etluser', NULL, 'NA');
+

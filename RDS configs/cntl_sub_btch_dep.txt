@@ -1,0 +1,9 @@
+INSERT INTO comm_ops.cntl_sub_btch_dep
+(btch_id, sub_btch_id, dep_sub_btch_id, dep_sub_btch_id_list, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, NULL, '', 1, '2023-08-25 17:15:04.569', 'etluser', '2023-08-25 17:15:04.569', 'etluser', '');
+INSERT INTO comm_ops.cntl_sub_btch_dep
+(btch_id, sub_btch_id, dep_sub_btch_id, dep_sub_btch_id_list, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560001, '', 1, '2023-08-25 17:15:04.569', 'etluser', '2023-08-25 17:15:04.569', 'etluser', '');
+INSERT INTO comm_ops.cntl_sub_btch_dep
+(btch_id, sub_btch_id, dep_sub_btch_id, dep_sub_btch_id_list, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560002, '', 1, '2023-08-25 17:15:04.569', 'etluser', '2023-08-25 17:15:04.569', 'etluser', '');

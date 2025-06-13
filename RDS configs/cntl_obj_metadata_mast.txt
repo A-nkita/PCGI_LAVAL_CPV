@@ -1,0 +1,30 @@
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001, 'base', 'BHC_CPV_LAVAL.BS_LVL_MARSXP_CO_SAMPLE_TEST_LG', 'NA', '', 'base load', 560001, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002, 'base', 'BHC_CPV_LAVAL.BS_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 'NA', '', 'base load', 560002, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003, 'base', 'BHC_CPV_LAVAL.BS_LVL_MARSXP_PM_BATCH_ST', 'NA', '', 'base load', 560003, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560004, 'base', 'BHC_CPV_LAVAL.BS_LVL_CSP_CSP_ACTIONS', 'NA', '', 'base load', 560004, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560005, 'base', 'BHC_CPV_LAVAL.BS_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 'NA', '', 'base load', 560005, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560006, 'base', 'BHC_CPV_LAVAL.BS_LVL_CSP_CSP_VALEURS', 'NA', '', 'base load', 560006, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560007, 'base', 'BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATA', 'NA', '', 'base load', 560007, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560008, 'base', 'BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATAITEM', 'NA', '', 'base load', 560008, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560009, 'base', 'BHC_CPV_LAVAL.BS_LVL_GLIMS_S_BATCH', 'NA', '', 'base load', 560009, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');
+INSERT INTO comm_ops.cntl_obj_metadata_mast
+(obj_id, obj_type, obj_nm, obj_path, obj_ds, tbl_stg, dtst_id, intgn_lvl, ctry, team_id, vend, subj_area, tier_2_clfsn, mtrc, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560010, 'base', 'BHC_CPV_LAVAL.BS_LVL_GLIMS_S_SAMPLE', 'NA', '', 'base load', 560010, '', 'US', 'NA', 'LAVALCPV', 'LAVALCPV', 'LAVALCPV', '', 1, NULL, 'etluser', NULL, 'etluser', '');

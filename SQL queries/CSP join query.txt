@@ -1,0 +1,19 @@
+SELECT 
+    act.NO_ACTION,
+    liens.NO_LOT AS BATCH_ID,
+    act.NO_PRODUIT AS PRODUCT_ID,
+    act.NO_TYPE,
+    act.NO_GAME,
+    act.NO_SUBLOT,
+    act.SUB_MEAN,
+    act.SUB_COUNT,
+    liens.IS_CLOSED,
+    valeurs.NO_VALEUR,
+    valeurs.NO_ACTION,
+    valeurs.VALEUR,
+    valeurs.NO_SUBGRP,
+    valeurs.USER_NAME,
+    valeurs.DATE_TIME
+FROM stg_lvl_csp_csp_actions AS act
+LEFT JOIN stg_lvl_csp_csp_lien_products_lots AS liens ON act.NO_LOT = liens.NO_LOT
+LEFT JOIN stg_lvl_csp_csp_valeurs AS valeurs ON act.NO_ACTION = valeurs.NO_ACTION;

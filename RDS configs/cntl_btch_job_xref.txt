@@ -1,0 +1,113 @@
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001001, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001002, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001003, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001004, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001005, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001006, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001007, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001008, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001009, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001010, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001011, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560001, 560001012, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002001, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002002, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002003, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002004, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002005, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002006, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002007, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002008, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002009, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002010, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002011, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560002, 560002012, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003001, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003002, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003003, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003004, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003005, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003006, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003007, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003008, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003009, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003010, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003011, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_btch_job_xref
+(btch_id, sub_btch_id, job_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560, 560003, 560003012, 1, NULL, 'etluser', NULL, 'etluser', 'NA');

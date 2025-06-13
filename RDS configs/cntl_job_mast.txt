@@ -1,0 +1,120 @@
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001001, 'dummy job for base load start', 'dummy job for base load start', 'US', 'python3 $ORCH_SHELL/upgrade/dummy.py $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001002, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_CO_SAMPLE_TEST_LG', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_CO_SAMPLE_TEST_LG', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560001 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001003, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560002 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001004, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_PM_BATCH_ST', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_PM_BATCH_ST', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560003 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001005, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_ACTIONS', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_ACTIONS', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560004 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001006, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560005 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001007, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_VALEURS', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_VALEURS', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560006 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001007, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_VALEURS', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_VALEURS', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560006 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001008, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATA', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATA', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560007 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001009, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATAITEM', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATAITEM', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560008 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001010, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_S_BATCH', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_S_BATCH', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560009 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001011, 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_S_SAMPLE', 'LAVALCPV: Base Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_S_SAMPLE', 'US', 'python3 $ORCH_SHELL/upgrade/data_movement_wrapper.py $cycl_time_id $scen_id 560010 RS $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001012, 'dummy job for base load end', 'dummy job for base load end', 'US', 'python3 $ORCH_SHELL/upgrade/dummy.py $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002001, 'dummy job for DQM start', 'dummy job for DQM start', 'US', 'python3 $ORCH_SHELL/upgrade/dummy.py $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002002, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_CO_SAMPLE_TEST_LG', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_CO_SAMPLE_TEST_LG', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_MARSXP_CO_SAMPLE_TEST_LG 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002003, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_MARSXP_MM_MATERIAL_PLANT_SP 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002004, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_PM_BATCH_ST', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_MARSXP_PM_BATCH_ST', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_MARSXP_PM_BATCH_ST 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002005, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_ACTIONS', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_ACTIONS', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_CSP_CSP_ACTIONS 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002006, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_CSP_CSP_LIEN_PRODUITS_LOTS 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002007, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_VALEURS', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_CSP_CSP_VALEURS', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_CSP_CSP_VALEURS 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002008, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATA', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATA', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATA 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002009, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATAITEM', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATAITEM', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_GLIMS_SDIDATAITEM 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002010, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_S_BATCH', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_S_BATCH', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_GLIMS_S_BATCH 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002011, 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_S_SAMPLE', 'LAVALCPV: DQM Load for BHC_CPV_LAVAL.BS_LVL_GLIMS_S_SAMPLE', 'US', 'python3 $ORCH_SHELL/upgrade/run_dqm_process_rs.py $cycl_time_id $scen_id  BHC_CPV_LAVAL.BS_LVL_GLIMS_S_SAMPLE 1 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002012, 'dummy job for DQM end', 'dummy job for DQM end', 'US', 'python3 $ORCH_SHELL/upgrade/dummy.py $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003001, 'dummy job for stage load start', 'dummy job for stage load start', 'US', 'python3 $ORCH_SHELL/upgrade/dummy.py $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003002, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_CO_SAMPLE_TEST_LG', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_CO_SAMPLE_TEST_LG', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560001 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003003, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560002 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003004, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_PM_BATCH_ST', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_PM_BATCH_ST', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560003 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003005, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_ACTIONS', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_ACTIONS', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560004 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003006, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560005 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003007, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_VALEURS', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_VALEURS', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560006 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003008, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATA', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATA', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560007 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003009, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATAITEM', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATAITEM', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560008 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003010, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_BATCH', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_BATCH', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560009 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003011, 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_SAMPLE', 'LAVALCPV: Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_SAMPLE', 'US', 'python3 $ORCH_SHELL/upgrade/rule_engine_executor_rs.py $cycl_time_id $scen_id etluser 560010 $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_mast
+(job_id, job_nm, job_ds, ctry, trig_scrt, scrt_type, team_id, subj_area, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003012, 'dummy job for stage load end', 'dummy job for stage load end', 'US', 'python3 $ORCH_SHELL/upgrade/dummy.py $log_f', 'PYTHON', 'NA', 'LAVALCPV', 1, NULL, 'etluser', NULL, 'etluser', 'NA');

@@ -1,0 +1,30 @@
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560001, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_CO_SAMPLE_TEST_LG', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560002, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_MM_MATERIAL_PLANT_SP', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560003, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_MARSXP_PM_BATCH_ST', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560004, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_ACTIONS', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560005, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_LIEN_PRODUITS_LOTS', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560006, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_CSP_CSP_VALEURS', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560007, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATA', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560008, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_SDIDATAITEM', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560009, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_BATCH', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
+INSERT INTO comm_ops.cntl_rule_type
+(rule_num, rule_nm, rule_type, loop_ctr_type, loop_ctr, actv_flg, rule_ds, subj_area, inrt_by, inrt_dt, modf_by, modf_dt, cmt)
+VALUES(560010, 'Stage Load for BHC_CPV_LAVAL.STG_LVL_GLIMS_S_SAMPLE', 'Serial', NULL, NULL, 1, '', 'LAVALCPV', 'etluser', NULL, 'etluser', NULL, 'NA');
