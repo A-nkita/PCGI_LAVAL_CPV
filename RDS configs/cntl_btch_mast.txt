@@ -1,0 +1,9 @@
+INSERT INTO comm_ops.cntl_btch_mast
+(btch_id, sub_btch_id, btch_nm, sub_btch_nm, ctry, freq, btch_subj_area, sub_btch_subj_area, team_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt, sub_btch_run_time, btch_cycl_time_ptrn)
+VALUES(560, 560001, 'LAVALCPV_DAILY Load', 'LVL0:LAVALCPV BASE LOAD', 'US', 'DAILY', 'LAVALCPV_DAILY Load', 'LAVALCPV_DAILY Load', 'NA', 1, NULL, 'etluser', NULL, 'etluser', 'NA', NULL, 'AUTOMATED');
+INSERT INTO comm_ops.cntl_btch_mast
+(btch_id, sub_btch_id, btch_nm, sub_btch_nm, ctry, freq, btch_subj_area, sub_btch_subj_area, team_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt, sub_btch_run_time, btch_cycl_time_ptrn)
+VALUES(560, 560002, 'LAVALCPV_DAILY Load', 'LVL1:LAVALCPV DQM CHECK', 'US', 'DAILY', 'LAVALCPV_DAILY Load', 'LAVALCPV_DAILY Load', 'NA', 1, NULL, 'etluser', NULL, 'etluser', 'NA', NULL, 'AUTOMATED');
+INSERT INTO comm_ops.cntl_btch_mast
+(btch_id, sub_btch_id, btch_nm, sub_btch_nm, ctry, freq, btch_subj_area, sub_btch_subj_area, team_id, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt, sub_btch_run_time, btch_cycl_time_ptrn)
+VALUES(560, 560003, 'LAVALCPV_DAILY Load', 'LVL1:LAVALCPV STAGE LOAD', 'US', 'DAILY', 'LAVALCPV_DAILY Load', 'LAVALCPV_DAILY Load', 'NA', 1, NULL, 'etluser', NULL, 'etluser', 'NA', NULL, 'AUTOMATED');

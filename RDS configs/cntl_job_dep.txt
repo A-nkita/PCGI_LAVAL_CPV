@@ -1,0 +1,115 @@
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001001, 560, 560001, NULL, '', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001002, 560, 560001, 560001001, '560001001', 'LAVALCPV', 'US', '', '560001', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001003, 560, 560001, 560001002, '560001002', 'LAVALCPV', 'US', '', '560002', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001004, 560, 560001, 560001003, '560001003', 'LAVALCPV', 'US', '', '560003', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001005, 560, 560001, 560001004, '560001004', 'LAVALCPV', 'US', '', '560004', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001006, 560, 560001, 560001005, '560001005', 'LAVALCPV', 'US', '', '560005', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001007, 560, 560001, 560001006, '560001006', 'LAVALCPV', 'US', '', '560006', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001008, 560, 560001, 560001007, '560001007', 'LAVALCPV', 'US', '', '560007', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001009, 560, 560001, 560001008, '560001008', 'LAVALCPV', 'US', '', '560008', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001010, 560, 560001, 560001009, '560001009', 'LAVALCPV', 'US', '', '560009', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001011, 560, 560001, 560001010, '560001010', 'LAVALCPV', 'US', '', '560010', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560001012, 560, 560001, 560001011, '560001011', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002001, 560, 560002, 560001012, '560001012', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002002, 560, 560002, 560002001, '560002001', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002003, 560, 560002, 560002002, '560002002', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002004, 560, 560002, 560002003, '560002003', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002005, 560, 560002, 560002004, '560002004', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002006, 560, 560002, 560002005, '560002005', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002007, 560, 560002, 560002006, '560002006', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002008, 560, 560002, 560002007, '560002007', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002009, 560, 560002, 560002008, '560002008', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002010, 560, 560002, 560002009, '560002009', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002011, 560, 560002, 560002010, '560002010', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560002012, 560, 560002, 560002011, '560002011', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003001, 560, 560003, 560002012, '560002012', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003002, 560, 560003, 560003001, '560003001', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003003, 560, 560003, 560003002, '560003002', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003004, 560, 560003, 560003003, '560003003', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003005, 560, 560003, 560003004, '560003004', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003006, 560, 560003, 560003005, '560003005', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003007, 560, 560003, 560003006, '560003006', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003008, 560, 560003, 560003007, '560003007', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003009, 560, 560003, 560003008, '560003008', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003010, 560, 560003, 560003009, '560003009', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003011, 560, 560003, 560003010, '560003010', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');
+
+INSERT INTO comm_ops.cntl_job_dep
+(job_id, btch_id, sub_btch_id, dep_job_id, dep_job_list, subj_area, ctry, team_id, file_list, auto_load_flg, actv_flg, inrt_dt, inrt_by, modf_dt, modf_by, cmt)
+VALUES(560003012, 560, 560003, 560003011, '560003011', 'LAVALCPV', 'US', '', '', 1, 1, NULL, 'etluser', NULL, 'etluser', 'NA');

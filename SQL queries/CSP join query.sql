@@ -1,0 +1,4 @@
+SELECT *
+FROM bhc_cpv_laval.stg_lvl_csp_csp_actions AS actions
+LEFT JOIN bhc_cpv_laval.stg_lvl_csp_csp_lien_produits_lots AS lots ON stg_lvl_csp_csp_actions.NO_LOT = stg_lvl_csp_csp_lien_produits_lots.NO_LOT
+LEFT JOIN bhc_cpv_laval.stg_lvl_csp_csp_valeurs AS valeurs ON stg_lvl_csp_csp_actions.NO_ACTION = stg_lvl_csp_csp_valeurs.NO_ACTION;

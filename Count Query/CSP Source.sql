@@ -1,0 +1,19 @@
+SELECT COUNT(*)
+FROM
+(SELECT ca.NO_LOT AS BATCH_ID,
+       ca.NO_PRODUIT AS PRODUCT_ID,
+       pbs.BATCH_PROD_DESC,
+       ctc."TYPE",
+       ca.NO_GAME,
+       ca.NO_SUBLOT,
+       cv.NO_SUBGRP,
+       cv.VALEUR,
+       cv.DATE_TIME
+  FROM CSP_ADMIN.CSP_ACTIONS ca
+       INNER JOIN PROD.PM_BATCH_ST pbs ON (ca.NO_LOT = pbs.BATCH_ID)
+       INNER JOIN CSP_ADMIN.CSP_TYPE_CARACTERISTIQUES ctc
+           ON (ctc.NO_TYPE = ca.NO_TYPE)
+       INNER JOIN CSP_ADMIN.CSP_VALEURS cv
+           ON (cv.NO_ACTION = ca.NO_ACTION)
+ 
+	   ) CSP
