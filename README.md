@@ -12,7 +12,7 @@ The pipeline supports **daily data refresh**, ensuring that business users have 
 
 - **Role**: ETL Developer  
 - **Team Size**: 4  
-- **Duration**: June 2024 – May 2025  
+- **Duration**: June 2023 – May 2024
 - **Client**: Laval  
 
 ---
